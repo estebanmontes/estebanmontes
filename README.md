@@ -4,8 +4,11 @@
 I'm a Senior Fullstack Developer with 8+ of experience specializing in developing scalable web/app applications and engaging user experiences. Passionate about leveraging modern technologies to solve complex problems and drive business success.
 
 🔭 I’m currently working on dropclub.lat
+
 🌱 I’m currently learning Blockchain Defi
+
 💬 Ask me about React, ReactNative, Next.js, NodeJs, Expo,Express, GraphQL
+
 📫 How to reach me: estebanmgcr@gmail.com
 
 ## 🛠 Skills
