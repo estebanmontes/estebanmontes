@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello, I'm [Your Name]! 👋
 
-<!--
-**estebanmontes/estebanmontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Senior Fullstack Developer with 8+ of experience specializing in developing scalable web/app applications and engaging user experiences. Passionate about leveraging modern technologies to solve complex problems and drive business success.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on dropclub.lat
+🌱 I’m currently learning Blockchain Defi
+💬 Ask me about React, ReactNative, Next.js, NodeJs, Expo,Express, GraphQL
+📫 How to reach me: estebanmgcr@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Frontend**: React, ReactNative, Next.js, Expo, MUI, TailwindCSS, Redux, Zustand, ReactQuery
+- **Backend**: Node.js, Express, Mongoose, Sequelize, Middleware, Passport, JSONWT, Prisma, Lambda
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Languages**: JavaScript, TypeScript, Java
+- **DevOps**: Aws, CI/CD, Relaway, Render
+- **Tools**: Git, GitHub, GitLab, JIRA, Figma, Bitrise, App Center
+
+## 📫 Let's Connect
+- **LinkedIn**: https://www.linkedin.com/in/esteban-montes-4553aabb
+- **Blog/Website**: https://estebanmontes.dev
+
+---
+
+⭐️ From [estebamontes](https://github.com/estebamontes)
