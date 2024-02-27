@@ -1,9 +1,9 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Esteban Montes 👋
 
 ## 🚀 About Me
 I'm a Senior Fullstack Developer with 8+ of experience specializing in developing scalable web/app applications and engaging user experiences. Passionate about leveraging modern technologies to solve complex problems and drive business success.
 
-🔭 I’m currently working on dropclub.lat
+🔭 I’m currently working on dropclub.lat (personal project)
 
 🌱 I’m currently learning Blockchain Defi
 
