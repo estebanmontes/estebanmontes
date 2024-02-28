@@ -7,7 +7,7 @@ I'm a Senior Fullstack Developer with 8+ of experience specializing in developin
 
 🌱 I’m currently learning Blockchain Defi
 
-💬 Ask me about React, ReactNative, Next.js, NodeJs, Expo,Express, GraphQL
+💬 Ask me about React, ReactNative, Next.js, Node.js, Expo,Express, GraphQL
 
 📫 How to reach me: estebanmgcr@gmail.com
 
