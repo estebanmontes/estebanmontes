@@ -5,7 +5,7 @@ I'm a Senior Fullstack Developer with 8+ of experience specializing in developin
 
 🔭 I’m currently working on dropclub.lat (personal project)
 
-🌱 I’m currently learning Blockchain Defi
+🌱 I’m currently learning Blockchain DeFi
 
 💬 Ask me about React, ReactNative, Next.js, Node.js, Expo,Express, GraphQL
 
